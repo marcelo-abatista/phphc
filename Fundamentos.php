@@ -20,6 +20,8 @@ git init
 git remote add origin https://github.com/marcelo-abatista/phphc.git
 git config --global user.name "Marcelo Batista"
 git config --global user.email "marcelo.25batista@gmail.com"
+git add --all
+git commit -m "mensagem"
 git push origin master
 
 */
